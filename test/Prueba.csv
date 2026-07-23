@@ -1,0 +1,4 @@
+airportCode,countryName,expectedStatus
+ATL,United States,200
+BCN,Spain,200
+XXXX,InvalidCountry,404
