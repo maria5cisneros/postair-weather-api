@@ -15,4 +15,4 @@ jobs:
       - name: Login to Postman
         run: postman login --with-api-key ${{ secrets.POSTMAN_API_KEY }}
       - name: Run PostAir test suite
-        run: postman collection run <collectionId> -e <enviromentId>
+        run: postman collection run <34564324-5b292217-008c-4b9f-bd30-f69360e4fea1> -e <34564324-4102ebb0-717e-4317-bd2a-4d382b940a14>
